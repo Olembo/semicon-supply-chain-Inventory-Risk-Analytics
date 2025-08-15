@@ -1,0 +1,241 @@
+component_id,component_name,category,unit_cost_usd,lead_time_days
+C0001,200mm Si Wafer 1,Silicon Wafers,218.58,75
+C0002,300mm Si Wafer 2,Silicon Wafers,137.73,51
+C0003,200mm Si Wafer 3,Silicon Wafers,101.49,83
+C0004,300mm Si Wafer 4,Silicon Wafers,87.62,77
+C0005,200mm Si Wafer 5,Silicon Wafers,388.0,40
+C0006,300mm Si Wafer 6,Silicon Wafers,192.57,50
+C0007,200mm Si Wafer 7,Silicon Wafers,239.82,39
+C0008,300mm Si Wafer 8,Silicon Wafers,188.09,50
+C0009,200mm Si Wafer 9,Silicon Wafers,248.75,63
+C0010,300mm Si Wafer 10,Silicon Wafers,299.19,30
+C0011,200mm Si Wafer 11,Silicon Wafers,304.79,37
+C0012,300mm Si Wafer 12,Silicon Wafers,333.17,48
+C0013,200mm Si Wafer 13,Silicon Wafers,125.15,59
+C0014,ABF Substrate 1,Organic Substrates,1.5,35
+C0015,ABF Substrate 2,Organic Substrates,2.19,37
+C0016,ABF Substrate 3,Organic Substrates,0.86,34
+C0017,ABF Substrate 4,Organic Substrates,0.73,30
+C0018,ABF Substrate 5,Organic Substrates,3.0,34
+C0019,ABF Substrate 6,Organic Substrates,1.41,45
+C0020,ABF Substrate 7,Organic Substrates,0.82,53
+C0021,ABF Substrate 8,Organic Substrates,2.84,39
+C0022,ABF Substrate 9,Organic Substrates,2.84,35
+C0023,ABF Substrate 10,Organic Substrates,1.64,33
+C0024,ABF Substrate 11,Organic Substrates,1.56,34
+C0025,ABF Substrate 12,Organic Substrates,1.5,42
+C0026,ABF Substrate 13,Organic Substrates,3.17,51
+C0027,ABF Substrate 14,Organic Substrates,0.95,51
+C0028,ABF Substrate 15,Organic Substrates,2.84,53
+C0029,ABF Substrate 16,Organic Substrates,2.12,40
+C0030,ABF Substrate 17,Organic Substrates,1.51,40
+C0031,ABF Substrate 18,Organic Substrates,3.23,44
+C0032,ABF Substrate 19,Organic Substrates,1.26,28
+C0033,ABF Substrate 20,Organic Substrates,1.44,37
+C0034,ABF Substrate 21,Organic Substrates,2.93,35
+C0035,ABF Substrate 22,Organic Substrates,3.19,39
+C0036,ABF Substrate 23,Organic Substrates,1.26,38
+C0037,ABF Substrate 24,Organic Substrates,2.97,52
+C0038,ABF Substrate 25,Organic Substrates,1.81,33
+C0039,ABF Substrate 26,Organic Substrates,0.95,37
+C0040,ABF Substrate 27,Organic Substrates,2.1,51
+C0041,ABF Substrate 28,Organic Substrates,1.65,41
+C0042,ABF Substrate 29,Organic Substrates,1.43,29
+C0043,ABF Substrate 30,Organic Substrates,2.37,41
+C0044,Cu Leadframe QFN-4x4 #1,Leadframes,0.11,33
+C0045,Cu Leadframe QFN-5x5 #2,Leadframes,0.44,31
+C0046,Cu Leadframe QFN-6x6 #3,Leadframes,0.15,41
+C0047,Cu Leadframe QFN-7x7 #4,Leadframes,0.2,37
+C0048,Cu Leadframe QFN-3x3 #5,Leadframes,0.09,54
+C0049,Cu Leadframe QFN-4x4 #6,Leadframes,0.18,25
+C0050,Cu Leadframe QFN-5x5 #7,Leadframes,0.32,20
+C0051,Cu Leadframe QFN-6x6 #8,Leadframes,0.25,22
+C0052,Cu Leadframe QFN-7x7 #9,Leadframes,0.33,31
+C0053,Cu Leadframe QFN-3x3 #10,Leadframes,0.42,21
+C0054,Cu Leadframe QFN-4x4 #11,Leadframes,0.42,38
+C0055,Cu Leadframe QFN-5x5 #12,Leadframes,0.15,36
+C0056,Cu Leadframe QFN-6x6 #13,Leadframes,0.26,32
+C0057,Cu Leadframe QFN-7x7 #14,Leadframes,0.09,41
+C0058,Cu Leadframe QFN-3x3 #15,Leadframes,0.19,32
+C0059,Cu Leadframe QFN-4x4 #16,Leadframes,0.34,41
+C0060,Cu Leadframe QFN-5x5 #17,Leadframes,0.31,24
+C0061,Cu Leadframe QFN-6x6 #18,Leadframes,0.11,42
+C0062,Cu Leadframe QFN-7x7 #19,Leadframes,0.05,22
+C0063,Cu Leadframe QFN-3x3 #20,Leadframes,0.27,30
+C0064,Cu Leadframe QFN-4x4 #21,Leadframes,0.33,29
+C0065,Cu Leadframe QFN-5x5 #22,Leadframes,0.18,42
+C0066,Cu Leadframe QFN-6x6 #23,Leadframes,0.31,35
+C0067,Cu Leadframe QFN-7x7 #24,Leadframes,0.09,25
+C0068,Cu Leadframe QFN-3x3 #25,Leadframes,0.44,26
+C0069,Au Wire Ø0.65mil #1,Bonding Wire (Au/Cu),0.82,39
+C0070,Au Wire Ø0.70mil #2,Bonding Wire (Au/Cu),0.57,43
+C0071,Cu Wire Ø0.75mil #3,Bonding Wire (Au/Cu),0.27,35
+C0072,Au Wire Ø0.80mil #4,Bonding Wire (Au/Cu),0.85,51
+C0073,Au Wire Ø0.60mil #5,Bonding Wire (Au/Cu),0.83,34
+C0074,Cu Wire Ø0.65mil #6,Bonding Wire (Au/Cu),0.87,44
+C0075,Au Wire Ø0.70mil #7,Bonding Wire (Au/Cu),0.35,30
+C0076,Au Wire Ø0.75mil #8,Bonding Wire (Au/Cu),0.25,42
+C0077,Cu Wire Ø0.80mil #9,Bonding Wire (Au/Cu),0.85,35
+C0078,Au Wire Ø0.60mil #10,Bonding Wire (Au/Cu),0.6,50
+C0079,Au Wire Ø0.65mil #11,Bonding Wire (Au/Cu),0.23,37
+C0080,Cu Wire Ø0.70mil #12,Bonding Wire (Au/Cu),0.66,44
+C0081,Au Wire Ø0.75mil #13,Bonding Wire (Au/Cu),0.4,32
+C0082,Au Wire Ø0.80mil #14,Bonding Wire (Au/Cu),0.8,50
+C0083,Cu Wire Ø0.60mil #15,Bonding Wire (Au/Cu),0.52,38
+C0084,Au Wire Ø0.65mil #16,Bonding Wire (Au/Cu),0.67,51
+C0085,Au Wire Ø0.70mil #17,Bonding Wire (Au/Cu),0.81,27
+C0086,Cu Wire Ø0.75mil #18,Bonding Wire (Au/Cu),0.57,21
+C0087,Au Wire Ø0.80mil #19,Bonding Wire (Au/Cu),0.48,40
+C0088,Au Wire Ø0.60mil #20,Bonding Wire (Au/Cu),0.14,17
+C0089,Cu Wire Ø0.65mil #21,Bonding Wire (Au/Cu),0.76,31
+C0090,Au Wire Ø0.70mil #22,Bonding Wire (Au/Cu),0.72,23
+C0091,Au Wire Ø0.75mil #23,Bonding Wire (Au/Cu),0.61,24
+C0092,EMC Low-Alpha Grade 1,Mold Compound,5.24,42
+C0093,EMC Low-Alpha Grade 2,Mold Compound,6.36,41
+C0094,EMC Low-Alpha Grade 3,Mold Compound,6.77,37
+C0095,EMC Low-Alpha Grade 4,Mold Compound,4.63,33
+C0096,EMC Low-Alpha Grade 5,Mold Compound,4.45,37
+C0097,EMC Low-Alpha Grade 6,Mold Compound,2.94,46
+C0098,EMC Low-Alpha Grade 7,Mold Compound,5.96,38
+C0099,EMC Low-Alpha Grade 8,Mold Compound,7.73,67
+C0100,EMC Low-Alpha Grade 9,Mold Compound,4.52,41
+C0101,EMC Low-Alpha Grade 10,Mold Compound,4.14,53
+C0102,EMC Low-Alpha Grade 11,Mold Compound,4.85,35
+C0103,EMC Low-Alpha Grade 12,Mold Compound,4.95,40
+C0104,EMC Low-Alpha Grade 13,Mold Compound,4.39,38
+C0105,EMC Low-Alpha Grade 14,Mold Compound,5.81,36
+C0106,EMC Low-Alpha Grade 15,Mold Compound,5.02,42
+C0107,EMC Low-Alpha Grade 16,Mold Compound,5.95,34
+C0108,EMC Low-Alpha Grade 17,Mold Compound,2.16,41
+C0109,EMC Low-Alpha Grade 18,Mold Compound,7.64,56
+C0110,EMC Low-Alpha Grade 19,Mold Compound,4.75,36
+C0111,EMC Low-Alpha Grade 20,Mold Compound,7.65,40
+C0112,DAF 30µm #1,Die Attach Film/Paste,4.85,36
+C0113,DAF 35µm #2,Die Attach Film/Paste,14.14,26
+C0114,DAF 40µm #3,Die Attach Film/Paste,5.42,60
+C0115,DAF 45µm #4,Die Attach Film/Paste,11.55,66
+C0116,DAF 50µm #5,Die Attach Film/Paste,7.38,38
+C0117,DAF 25µm #6,Die Attach Film/Paste,13.01,56
+C0118,DAF 30µm #7,Die Attach Film/Paste,8.46,56
+C0119,DAF 35µm #8,Die Attach Film/Paste,8.09,59
+C0120,DAF 40µm #9,Die Attach Film/Paste,13.01,64
+C0121,DAF 45µm #10,Die Attach Film/Paste,5.24,72
+C0122,DAF 50µm #11,Die Attach Film/Paste,7.84,60
+C0123,DAF 25µm #12,Die Attach Film/Paste,8.67,30
+C0124,DAF 30µm #13,Die Attach Film/Paste,15.41,47
+C0125,DAF 35µm #14,Die Attach Film/Paste,11.58,38
+C0126,DAF 40µm #15,Die Attach Film/Paste,12.07,45
+C0127,DAF 45µm #16,Die Attach Film/Paste,13.5,56
+C0128,DAF 50µm #17,Die Attach Film/Paste,4.69,41
+C0129,DAF 25µm #18,Die Attach Film/Paste,9.3,52
+C0130,DAF 30µm #19,Die Attach Film/Paste,5.72,52
+C0131,DAF 35µm #20,Die Attach Film/Paste,11.42,33
+C0132,Capillary Underfill UF-120 #1,Underfill/Epoxy,3.8,53
+C0133,Capillary Underfill UF-140 #2,Underfill/Epoxy,10.77,25
+C0134,Capillary Underfill UF-160 #3,Underfill/Epoxy,11.94,50
+C0135,Capillary Underfill UF-180 #4,Underfill/Epoxy,13.85,49
+C0136,Capillary Underfill UF-200 #5,Underfill/Epoxy,11.55,46
+C0137,Capillary Underfill UF-220 #6,Underfill/Epoxy,7.67,60
+C0138,Capillary Underfill UF-100 #7,Underfill/Epoxy,3.12,38
+C0139,Capillary Underfill UF-120 #8,Underfill/Epoxy,3.62,34
+C0140,Capillary Underfill UF-140 #9,Underfill/Epoxy,11.21,43
+C0141,Capillary Underfill UF-160 #10,Underfill/Epoxy,13.58,46
+C0142,Capillary Underfill UF-180 #11,Underfill/Epoxy,5.46,58
+C0143,Capillary Underfill UF-200 #12,Underfill/Epoxy,3.13,64
+C0144,Capillary Underfill UF-220 #13,Underfill/Epoxy,3.81,47
+C0145,Capillary Underfill UF-100 #14,Underfill/Epoxy,13.66,58
+C0146,Capillary Underfill UF-120 #15,Underfill/Epoxy,8.0,58
+C0147,Capillary Underfill UF-140 #16,Underfill/Epoxy,9.43,83
+C0148,Capillary Underfill UF-160 #17,Underfill/Epoxy,6.05,31
+C0149,Capillary Underfill UF-180 #18,Underfill/Epoxy,8.1,36
+C0150,SnAgCu BGA Φ0.30mm #1,Solder Balls/Spheres,0.08,43
+C0151,SnAgCu BGA Φ0.35mm #2,Solder Balls/Spheres,0.06,37
+C0152,SnAgCu BGA Φ0.40mm #3,Solder Balls/Spheres,0.06,22
+C0153,SnAgCu BGA Φ0.45mm #4,Solder Balls/Spheres,0.07,31
+C0154,SnAgCu BGA Φ0.50mm #5,Solder Balls/Spheres,0.08,52
+C0155,SnAgCu BGA Φ0.25mm #6,Solder Balls/Spheres,0.01,26
+C0156,SnAgCu BGA Φ0.30mm #7,Solder Balls/Spheres,0.08,23
+C0157,SnAgCu BGA Φ0.35mm #8,Solder Balls/Spheres,0.05,29
+C0158,SnAgCu BGA Φ0.40mm #9,Solder Balls/Spheres,0.04,32
+C0159,SnAgCu BGA Φ0.45mm #10,Solder Balls/Spheres,0.01,39
+C0160,SnAgCu BGA Φ0.50mm #11,Solder Balls/Spheres,0.06,41
+C0161,SnAgCu BGA Φ0.25mm #12,Solder Balls/Spheres,0.07,22
+C0162,SnAgCu BGA Φ0.30mm #13,Solder Balls/Spheres,0.08,33
+C0163,SnAgCu BGA Φ0.35mm #14,Solder Balls/Spheres,0.03,28
+C0164,SnAgCu BGA Φ0.40mm #15,Solder Balls/Spheres,0.02,43
+C0165,SnAgCu BGA Φ0.45mm #16,Solder Balls/Spheres,0.05,44
+C0166,SnAgCu BGA Φ0.50mm #17,Solder Balls/Spheres,0.05,33
+C0167,SnAgCu BGA Φ0.25mm #18,Solder Balls/Spheres,0.07,32
+C0168,SnAgCu BGA Φ0.30mm #19,Solder Balls/Spheres,0.06,31
+C0169,SnAgCu BGA Φ0.35mm #20,Solder Balls/Spheres,0.02,25
+C0170,SnAgCu BGA Φ0.40mm #21,Solder Balls/Spheres,0.04,23
+C0171,SnAgCu BGA Φ0.45mm #22,Solder Balls/Spheres,0.07,35
+C0172,SnAgCu BGA Φ0.50mm #23,Solder Balls/Spheres,0.04,34
+C0173,SnAgCu BGA Φ0.25mm #24,Solder Balls/Spheres,0.07,32
+C0174,SnAgCu BGA Φ0.30mm #25,Solder Balls/Spheres,0.04,41
+C0175,MEMS Probe Card 1,Probe Cards,6926.18,57
+C0176,MEMS Probe Card 2,Probe Cards,2758.63,68
+C0177,MEMS Probe Card 3,Probe Cards,3280.46,66
+C0178,MEMS Probe Card 4,Probe Cards,3818.8,61
+C0179,MEMS Probe Card 5,Probe Cards,10967.88,65
+C0180,BGA Test Socket 0.5mm pitch #1,Test Sockets,121.53,40
+C0181,BGA Test Socket 0.6mm pitch #2,Test Sockets,114.06,46
+C0182,BGA Test Socket 0.7mm pitch #3,Test Sockets,126.03,43
+C0183,BGA Test Socket 0.8mm pitch #4,Test Sockets,221.09,58
+C0184,BGA Test Socket 0.9mm pitch #5,Test Sockets,339.55,76
+C0185,BGA Test Socket 0.4mm pitch #6,Test Sockets,79.54,51
+C0186,BGA Test Socket 0.5mm pitch #7,Test Sockets,119.05,49
+C0187,BGA Test Socket 0.6mm pitch #8,Test Sockets,178.55,44
+C0188,BGA Test Socket 0.7mm pitch #9,Test Sockets,208.01,82
+C0189,BGA Test Socket 0.8mm pitch #10,Test Sockets,71.74,50
+C0190,BGA Test Socket 0.9mm pitch #11,Test Sockets,223.74,60
+C0191,BGA Test Socket 0.4mm pitch #12,Test Sockets,94.3,42
+C0192,BGA Test Socket 0.5mm pitch #13,Test Sockets,146.16,52
+C0193,JEDEC Tray 1,Carrier Tapes/Trays,0.03,19
+C0194,JEDEC Tray 2,Carrier Tapes/Trays,0.06,28
+C0195,JEDEC Tray 3,Carrier Tapes/Trays,0.16,28
+C0196,JEDEC Tray 4,Carrier Tapes/Trays,0.05,32
+C0197,JEDEC Tray 5,Carrier Tapes/Trays,0.16,25
+C0198,JEDEC Tray 6,Carrier Tapes/Trays,0.09,21
+C0199,JEDEC Tray 7,Carrier Tapes/Trays,0.17,21
+C0200,JEDEC Tray 8,Carrier Tapes/Trays,0.05,19
+C0201,JEDEC Tray 9,Carrier Tapes/Trays,0.08,16
+C0202,JEDEC Tray 10,Carrier Tapes/Trays,0.07,29
+C0203,JEDEC Tray 11,Carrier Tapes/Trays,0.05,26
+C0204,JEDEC Tray 12,Carrier Tapes/Trays,0.05,22
+C0205,JEDEC Tray 13,Carrier Tapes/Trays,0.24,30
+C0206,JEDEC Tray 14,Carrier Tapes/Trays,0.07,31
+C0207,JEDEC Tray 15,Carrier Tapes/Trays,0.23,20
+C0208,JEDEC Tray 16,Carrier Tapes/Trays,0.2,19
+C0209,JEDEC Tray 17,Carrier Tapes/Trays,0.1,18
+C0210,JEDEC Tray 18,Carrier Tapes/Trays,0.06,27
+C0211,JEDEC Tray 19,Carrier Tapes/Trays,0.09,26
+C0212,JEDEC Tray 20,Carrier Tapes/Trays,0.15,13
+C0213,JEDEC Tray 21,Carrier Tapes/Trays,0.1,20
+C0214,JEDEC Tray 22,Carrier Tapes/Trays,0.09,26
+C0215,JEDEC Tray 23,Carrier Tapes/Trays,0.2,18
+C0216,JEDEC Tray 24,Carrier Tapes/Trays,0.11,30
+C0217,JEDEC Tray 25,Carrier Tapes/Trays,0.21,36
+C0218,JEDEC Tray 26,Carrier Tapes/Trays,0.24,16
+C0219,JEDEC Tray 27,Carrier Tapes/Trays,0.04,35
+C0220,JEDEC Tray 28,Carrier Tapes/Trays,0.06,32
+C0221,JEDEC Tray 29,Carrier Tapes/Trays,0.07,18
+C0222,JEDEC Tray 30,Carrier Tapes/Trays,0.18,23
+C0223,Bond Capillary ID35µm #1,Nozzles/Capillaries,43.71,55
+C0224,Bond Capillary ID40µm #2,Nozzles/Capillaries,50.13,30
+C0225,Bond Capillary ID45µm #3,Nozzles/Capillaries,52.01,30
+C0226,Bond Capillary ID50µm #4,Nozzles/Capillaries,33.58,59
+C0227,Bond Capillary ID55µm #5,Nozzles/Capillaries,45.71,38
+C0228,Bond Capillary ID60µm #6,Nozzles/Capillaries,24.35,53
+C0229,Bond Capillary ID65µm #7,Nozzles/Capillaries,65.22,32
+C0230,Bond Capillary ID30µm #8,Nozzles/Capillaries,64.61,34
+C0231,Bond Capillary ID35µm #9,Nozzles/Capillaries,86.51,40
+C0232,Bond Capillary ID40µm #10,Nozzles/Capillaries,34.88,37
+C0233,Bond Capillary ID45µm #11,Nozzles/Capillaries,17.68,40
+C0234,Bond Capillary ID50µm #12,Nozzles/Capillaries,42.37,46
+C0235,Bond Capillary ID55µm #13,Nozzles/Capillaries,23.85,43
+C0236,Bond Capillary ID60µm #14,Nozzles/Capillaries,78.78,22
+C0237,Bond Capillary ID65µm #15,Nozzles/Capillaries,33.34,47
+C0238,Bond Capillary ID30µm #16,Nozzles/Capillaries,70.52,44
+C0239,Bond Capillary ID35µm #17,Nozzles/Capillaries,35.14,23
+C0240,Bond Capillary ID40µm #18,Nozzles/Capillaries,51.96,59

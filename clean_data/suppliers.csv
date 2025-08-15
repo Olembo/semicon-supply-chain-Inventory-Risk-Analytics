@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,tier_level,on_time_rating
+S001,Nippon Substrate Co.,Japan,Tier 2,88.76
+S002,Formotech Packaging,Malaysia,Tier 1,94.34
+S003,Taiwan Advanced Materials,United States,Tier 1,88.2
+S004,Korea Probe Solutions,Korea,Tier 1,92.8
+S005,Silicon Precision Works,Singapore,Tier 1,92.33
+S006,Tokyo Wafertech,Korea,Tier 2,95.33
+S007,Globaltest Equipment,China,Tier 2,98.84
+S008,Micron Substrates Eu,Singapore,Tier 2,90.97
+S009,United Semiconductor Parts,United States,Tier 1,86.8
+S010,Shenzhen Bonding Supplies,Germany,Tier 1,97.72
+S011,Ase Materials Division,Japan,Tier 1,92.23
+S012,Spil Components Ltd.,Singapore,Tier 1,88.81
+S013,Hanwa Leadframes,Malaysia,Tier 1,92.64
+S014,Hitachi Bonding Wires,Germany,Tier 2,88.2
+S015,K&S Precision Tools,Korea,Tier 1,98.2
+S016,Amkor Assembly Supplies,China,Tier 1,90.02
+S017,Infineon Packaging Materials,Germany,Tier 2,94.71
+S018,St Micro Parts Asia,Malaysia,Tier 1,97.91
+S019,Applied Materials Korea,Singapore,Tier 1,98.4
+S020,Nanotech Packaging Taiwan,Malaysia,Tier 2,98.39
