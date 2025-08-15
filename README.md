@@ -58,9 +58,10 @@ pip install -r requirements.txt
 3. Run notebooks in the following order:
 
    1. `data_cleaning.ipynb`
-   2. `EDA_Report_Semicon_Supply_Chain.ipynb`
-   3. `demand_vs_supplyForecasting.ipynb`
-   4. `visualization.ipynb`
+   2. `eda_queries.sql`
+   3. `forecasting_and_risk.ipynb`
+   4. `supplier_kpis.ipynb`
+   5. `visualization.ipynb`
 
 ## Example Visuals
 
