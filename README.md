@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ![Supplier Delay Heatmap](clean_data/figures/supplier_delay_heatmap.png)
 ![On-Time Delivery KPI](clean_data/figures/monthly_delay_rate_by_country.png)
 
-## Deliverables
+## Deliverables (In Process)
 
 * **Supplier Scorecard**: Excel file summarizing supplier performance across KPIs.
 * **Visual Dashboard**: Charts for delay heatmaps, lead time trends, and demand risk.
@@ -85,4 +85,5 @@ This project demonstrates practical analytics capabilities for semiconductor ope
 ---
 
 **Author:** Devin Richmond
+
 **Role:** Data Analyst / Semiconductor Operations Analytics
