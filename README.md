@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ## Example Visuals
 
 ![Supplier Delay Heatmap](clean_data/figures/supplier_delay_heatmap.png)
-![On-Time Delivery KPI](clean_data/figures/kpi_otd_overall.png)
+![On-Time Delivery KPI](clean_data/figures/monthly_delay_rate_by_country.png)
 
 ## Deliverables
 
